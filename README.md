@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python statPc.py
+python StatPc.py
 ```
 
 ## Graphic's screenshot 
